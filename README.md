@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Margarita
 
-<!--
-**margarita-boomCodes/margarita-boomCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Web Developer based in Berlin, focused on WordPress and frontend.
 
-Here are some ideas to get you started:
+For more than ten years I have been building medium to large WordPress websites
+for companies, associations and NGOs: custom themes and plugins, Gutenberg blocks,
+REST API integrations and multisite networks, often as technical lead.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work lives in private client repositories, so this profile shows only
+a small part of it. Here I share code that is not tied to a client project.
+
+**Stack:** PHP · JavaScript · React · CSS/Sass · MySQL · Git
+**Focus:** WordPress Coding Standards · security · accessibility · performance
+
+[Portfolio](https://boom.codes) · [LinkedIn](https://www.linkedin.com/in/margarita-boomcodes)
