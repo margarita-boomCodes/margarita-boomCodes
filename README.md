@@ -1,15 +1,10 @@
-## Hi there, I'm Margarita
+Hi there, I'm Margarita 👋
 
 Senior Web Developer based in Berlin, focused on WordPress and frontend.
 
-For more than ten years I have been building medium to large WordPress websites
-for companies, associations and NGOs: custom themes and plugins, Gutenberg blocks,
-REST API integrations and multisite networks, often as technical lead.
+For more than ten years I have been building medium to large WordPress websites for companies, associations and NGOs: custom themes and plugins, Gutenberg blocks, REST API integrations and multisite networks, often as technical lead.
 
-Most of my work lives in private client repositories, so this profile shows only
-a small part of it. Here I share code that is not tied to a client project.
+There is no public code here, because my work lives in private client repositories. You can see selected projects at [boom.codes](https://boom.codes). If you would like to work together, contact me at [margarita@boom.codes](mailto:margarita@boom.codes).
 
 **Stack:** PHP · JavaScript · React · CSS/Sass · MySQL · Git
 **Focus:** WordPress Coding Standards · security · accessibility · performance
-
-[Portfolio](https://boom.codes) · [LinkedIn](https://www.linkedin.com/in/margarita-boomcodes)
