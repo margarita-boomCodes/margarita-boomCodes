@@ -1,4 +1,4 @@
-Hi there, I'm Margarita 👋
+# Hi there, I'm Margarita
 
 Senior Web Developer based in Berlin, focused on WordPress and frontend.
 
